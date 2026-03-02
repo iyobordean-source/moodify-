@@ -2,10 +2,10 @@
  const login = document.getElementById("login");
 
  function handleclick() {
-    window.location.href = "/signup.html";
+    window.location.href = "./signup.html";
     console.log("clicked");
  }
-function handleclicked() {    window.location.href = "/login.html";
+function handleclicked() {    window.location.href = "./login.html";
     console.log("clicked");
  }
 
